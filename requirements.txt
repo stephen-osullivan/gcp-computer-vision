@@ -1,0 +1,4 @@
+google-cloud
+google-cloud-vision
+jupyterlab
+pillow
