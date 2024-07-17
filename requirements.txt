@@ -1,4 +1,11 @@
+python-dotenv
 google-cloud
+google-cloud-storage
 google-cloud-vision
+google-cloud-videointelligence
 jupyterlab
+moviepy
+opencv-python
 pillow
+yt-dlp
+vertexai
